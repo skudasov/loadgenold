@@ -1,4 +1,4 @@
-module github.com/insolar/loadgen
+module github.com/skudasov/loadgen
 
 go 1.12
 
