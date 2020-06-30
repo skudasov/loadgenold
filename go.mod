@@ -1,4 +1,4 @@
-module github.com/skudasov/loadgen
+module github.com/skudasov/loadgenold
 
 go 1.12
 
